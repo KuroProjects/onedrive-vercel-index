@@ -42,7 +42,7 @@ module.exports = {
   protectedRoutes: ["/private/","/private2/"],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:Top5everyt@gmail.com',
+  email: 'https://rentry.co/8qgwr',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      link: 'https://github.com',
     },
     {
       name: 'Telegram',
